@@ -1,0 +1,11 @@
+C:\Users\crist\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\crist\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\crist\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\crist\source\repos\PictureViewer\PictureViewer\bin\Debug\PictureViewer.xml
+C:\Users\crist\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.vbprojAssemblyReference.cache
+C:\Users\crist\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Resources.resources
+C:\Users\crist\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.vbproj.GenerateResource.cache
+C:\Users\crist\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\crist\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.xml
+C:\Users\crist\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\crist\source\repos\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
